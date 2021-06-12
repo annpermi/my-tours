@@ -2,6 +2,6 @@ My-tours
 
 Fetching data with React Hooks
 
+![tour](https://user-images.githubusercontent.com/74892817/121789921-2de72780-cba8-11eb-9e84-36b774ad8fbf.gif)
 
-https://user-images.githubusercontent.com/74892817/121789817-3ee36900-cba7-11eb-8922-53243303468d.mov
 
